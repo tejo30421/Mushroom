@@ -5,7 +5,7 @@ The Mushroom Classification is used to know if the selected mushroom is edible o
 git clone ("https://github.com/tejo30421/Mushroom.git") <br />
 Clone this repostitory
 <h2><strong> 3. Requirements </strong></h2>
-The softwares used is Python==3.11 <br />
+The software used is Python==3.11 <br />
 pip install -r requirements.txt
 <h2><strong> 4. Codeblock </strong></h2>
 Numpy==1.24.3  <br />
